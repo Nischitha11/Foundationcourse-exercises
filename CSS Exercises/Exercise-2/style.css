@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    margin: 50px;
+}
+.heading{
+    font-size: large;
+    margin: 20px;
+
+}
+
+.p1{
+    font-size: medium;
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.body{
+    padding: 20px;
+    
+}
+.footer{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(160, 79, 21);
+}

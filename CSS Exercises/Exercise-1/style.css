@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(146, 146, 219);
+}
+.block-1{
+    margin: 40px;
+    padding: 40px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    color: black;
+    font-size: medium;
+    text-align: center;
+}
+.block-2{
+    margin: 40px;
+    padding: 10px;
+    border: 3px solid rgb(35, 35, 202);
+    background-color: rgb(125, 54, 190);
+    color: black;
+    font-size: medium;
+    text-align: center;
+}
+.block-3{
+    margin-left: auto;
+    padding: 50px;
+    border: 3px solid blue;
+    background-color: blueviolet;
+    color: black;
+    font-size: medium;
+    text-align: center;
+    width:250px;
+}
